@@ -1,0 +1,28 @@
+
+
+body{
+    background-color: #e7e8eb;
+}
+/* .jumbotron{
+    background-color: #e7e8eb;
+    border-radius: 15px;
+
+} */
+
+.card{
+    border-radius: 20px;
+    box-shadow: 2px 2px  #b9b9be5d;
+    border: none;
+
+
+}
+.img-thumbnail{
+    width: 250px;
+    height: 150px;
+    border: none;
+    
+}
+
+.jumbotron{
+    margin-top: 20px;
+}
